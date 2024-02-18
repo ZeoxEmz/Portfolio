@@ -1,0 +1,24 @@
+:root {
+  --color-texto: #c2d2e9; /* color usado para el texto general*/
+  --color-link-nav: #eee; /* color usado para los links del nav*/
+  --color-link-nav-hover: #77a9f5; /* color usado para los links del nav*/
+  --color-link-nav-text-hover: #ccc; /* color usado para los links del nav*/
+  --color-nav: #091d36; /* color usado para la barra de navegacion*/
+  --color-subTitulo: #9bc3ff; /* color usado para la barra de navegacion*/
+
+  --color-nav-claro: #5c83bd;
+  --tamano-texto: 16px;
+}
+.app-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hero-div{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 10em;
+  padding-bottom: 10em;
+}

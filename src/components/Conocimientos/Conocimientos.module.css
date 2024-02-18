@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+    color: var(--color-subTitulo);
+    font-size: xx-large;
+}
+.div_img{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(4em,1fr));
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+}
+.img{
+    width: 100%;
+}

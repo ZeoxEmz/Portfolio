@@ -1,0 +1,20 @@
+.sobre{
+    text-align: center;
+    padding-top: 10em;
+}
+.titulo{
+    color: var(--color-subTitulo);
+    font-size: xx-large;
+}
+p{
+    color: #d7f2ff;
+    font-size: 17px;
+}
+.nombre{
+    color: #c1c1c1;
+    font-size: xx-large;
+    padding-bottom: 3em;
+}
+.texto1{
+    padding-top: 5em;
+}
