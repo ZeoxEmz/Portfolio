@@ -9,7 +9,7 @@ import { Contacto } from './components/Contacto/Contacto'
 
 
 
-function App() {
+function MainApp() {
   const [modoClaro, setModoClaro] = useState(true);
 
   const toggleModoClaro = ()=>{
@@ -30,4 +30,4 @@ function App() {
   )
 }
 
-export default App
+export default MainApp
