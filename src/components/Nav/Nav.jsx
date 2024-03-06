@@ -11,7 +11,7 @@ export function Nav() {
 
         <div className={styles.div_link}>
           <a href="#proyectos">proyectos</a>
-          <a href={cv} target="_blank" rel="noopener noreferrer">descargar curriculum</a>
+          <a href={cv} target="_blank" rel="noopener noreferrer">curriculum vitae</a>
           <a href="#contacto">contacto</a>
         </div>
 

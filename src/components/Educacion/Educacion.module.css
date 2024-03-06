@@ -15,6 +15,9 @@ h3{
     padding-top: 2em;
     padding-bottom: 5em;
 }
+.educacionItem1 span,.educacionItem2 span{
+    color: #c4ff8a;
+}
 .hr{
     width: 50%;
     margin-top: 4em;

@@ -31,7 +31,7 @@
 }
 .div_link{
   display: flex;
-  gap: 1em;
+  gap: 7em;
 }
 .button {
   border: none;
@@ -45,5 +45,11 @@
 @media screen and (max-width:700px){
   .div_link :first-child,.div_link :last-child{
       display: none;
+  }
+  .div_link{
+    width: 100%;
+    display: flex;
+    gap: 1em;
+    justify-content: end;
   }
 }
