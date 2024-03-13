@@ -3,6 +3,9 @@
     flex-direction: column;
     align-items: center;
 }
+.conocimientos hr {
+    width: 100%;
+}
 .titulo{
     text-align: center;
     color: var(--color-subTitulo);
