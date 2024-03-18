@@ -1,6 +1,6 @@
 import styles from "./Proyectos.module.css"
-import pokedex from "../../img/Pokedex.jpeg"
-import pokedexHome from "../../img/pokedexHome.png"
+import pokedex from "../../../img/Pokedex.jpeg"
+import pokedexHome from "../../../img/pokedexHome.png"
 
 export function Proyectos() {
     return(
